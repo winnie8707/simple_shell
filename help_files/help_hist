@@ -6,3 +6,5 @@ history: history
 
     Exit Status:
     Returns success unless an invalid option is given or an error occurs.
+
+    written by Monica 
