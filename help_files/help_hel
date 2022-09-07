@@ -7,3 +7,5 @@ help: help
 
     Exit Status:
     Returns success unless PATTERN is not found or an invalid option is given.
+
+    written by Monica 
