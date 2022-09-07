@@ -13,3 +13,5 @@ alias: alias
     Exit Status:
     alias returns true unless a NAME is supplied for which no alias has been
     defined.
+
+    written by Monica
